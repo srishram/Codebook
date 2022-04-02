@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Replication package" />
         <p className="description">
-          <p> This is the Replication Package for <b><i>"Need advice on Advice?: An Interview Study on how Experts Write General Security Advice"</b></i> </p>
+          <p> This is the Replication Package for <i>"Need advice on Advice?: An Interview Study on how Experts Write General Security Advice"</i> </p>
         </p>
       </main>
 
