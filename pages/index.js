@@ -15,7 +15,7 @@ export default function Home() {
           <p> This is the Replication Package for <i>"Need advice on Advice?: An Interview Study on how Experts Write General Security Advice"</i> 
                
            
-            <a href= "https://github.com/srishram/Codebook/blob/main/pages/IEEE_General%20Security%20Advice%20Codebook.docx%20-%20Google%20Docs.pdf">Code book </a>
+            <a href= "pages/IEEE_General Security Advice Codebook.docx - Google Docs.pdf">Code book </a>
                
            
     
