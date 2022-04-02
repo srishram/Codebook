@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Need Advice on Advice?: An Interview Study on how Experts Write General Security Advice" />
+        <Header title="Replication package" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This is the replication package for the publication "Need advice on Advice?: An Interview Study on how Experts Write General Security Advice </code>
         </p>
       </main>
 
