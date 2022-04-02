@@ -13,11 +13,11 @@ export default function Home() {
         <Header title="Replication package" />
         <p className="description">
           <p> This is the Replication Package for <i>"Need advice on Advice?: An Interview Study on how Experts Write General Security Advice"</i> 
-                    <ul>
-                <li>Interview Guide</li>
-                <li> <a href= "IEEE_General Security Advice Codebook.docx - Google Docs.pdf>Code book </a> </li>
-                <li>Recruitment Criteria</li>
-                </ul>
+               
+           
+            <a href= "IEEE_General Security Advice Codebook.docx - Google Docs.pdf>Code book </a>
+               
+           
     
     </p>
         </p>
