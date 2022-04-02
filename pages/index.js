@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Need Advice on Advice?: An Interview Study on how Experts Write General Security Advice" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
