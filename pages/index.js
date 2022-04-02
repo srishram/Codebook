@@ -7,7 +7,6 @@ export default function Home() {
     <div className="container">
       <Head>
         <title> advice22.netlify.app </title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
